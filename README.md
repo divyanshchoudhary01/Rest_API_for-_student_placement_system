@@ -12,7 +12,7 @@ ARC API Client was used to test the HTTP request/response flow.
 return the placement data of the studnets
 ![image](https://github.com/divyanshchoudhary01/Rest_API_for-_student_placement_system/assets/62482950/9dfaa74d-c2c8-4cc6-85a5-95bc900e36bb)
 
-#### `GET /addPlacement`
+#### `POST /addPlacement`
 with this you can add the student placement record.
 ![image](https://github.com/divyanshchoudhary01/Rest_API_for-_student_placement_system/assets/62482950/b456501e-dae0-4808-8272-e220484b2588)
 
